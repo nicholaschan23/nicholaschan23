@@ -1,3 +1,4 @@
-# nicholaschan23
-![LinkedIn](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) [nicholaschan23](https://www.linkedin.com/in/nicholaschan23/)
+### Hi there! :wave:
+![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white) [nicholaschan23](https://www.linkedin.com/in/nicholaschan23/)
+
 ```About Me```
